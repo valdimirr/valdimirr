@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Infraestrutura+%26+Suporte+N2;Desenvolvimento+Full+Stack;Automa%C3%A7%C3%A3o+de+Processos+com+IA" alt="Typing SVG" />
 </div>
 
-Profissional de TI com mais de 6 anos de experiência em infraestrutura, suporte N2 e desenvolvimento de soluções. Atuo na sustentação de 5 unidades do SENAI e no desenvolvimento de sistemas e automações que resolvem problemas reais do negócio. <img src="https://raw.githubusercontent.com/copperblade/copperblade/master/assets/Hi.gif" width="22"/>
+Profissional de TI com mais de 6 anos de experiência em infraestrutura, suporte N2 e desenvolvimento de soluções. Atuo na sustentação de 5 unidades do SENAI e no desenvolvimento de sistemas e automações que resolvem problemas reais do negócio.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
+</div>
 
 <div align="center">
 
@@ -79,8 +83,7 @@ Profissional de TI com mais de 6 anos de experiência em infraestrutura, suporte
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=valdimirr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=valdimirr&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-REAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
