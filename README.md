@@ -1,14 +1,17 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7952B3,100:D97757&height=180&section=header&text=Valdimir&fontSize=50&fontColor=fff&fontAlignY=35&desc=Infraestrutura%20%26%20Desenvolvimento%20Full%20Stack&descAlignY=55&descSize=18"/>
+</div>
 
-# 💜 Olá, eu sou o Valdimir!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Infraestrutura+%26+Suporte+N2;Desenvolvimento+Full+Stack;Automa%C3%A7%C3%A3o+de+Processos+com+IA" alt="Typing SVG" />
+</div>
 
-**Analista de TI · Infraestrutura & Suporte N2 · Desenvolvedor Full Stack**
+Profissional de TI com mais de 6 anos de experiência em infraestrutura, suporte N2 e desenvolvimento de soluções. Atuo na sustentação de 5 unidades do SENAI e no desenvolvimento de sistemas e automações que resolvem problemas reais do negócio. <img src="https://raw.githubusercontent.com/copperblade/copperblade/master/assets/Hi.gif" width="22"/>
 
-Profissional de TI com mais de 6 anos de experiência em infraestrutura, suporte N2 e desenvolvimento de soluções.<br>
-Atuo na sustentação de 5 unidades do SENAI e no desenvolvimento de sistemas e automações que resolvem problemas reais do negócio.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdimir-ferraz/)
+[![Gmail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:valdimirferraz@hotmail.com)
 
 </div>
 
@@ -19,7 +22,7 @@ Atuo na sustentação de 5 unidades do SENAI e no desenvolvimento de sistemas e 
 - 🏗️ **Infraestrutura & Suporte N2** — administração de Microsoft 365, Active Directory, redes e servidores; diagnóstico de incidentes e implantação de melhorias em 5 unidades
 - 💻 **Desenvolvimento Full Stack** — React, TypeScript, Node.js, MySQL e Docker
 - ⚙️ **Automação de processos** — Python, PowerShell, n8n e Power BI para eliminar trabalho repetitivo e dar visibilidade aos dados
-- 🤖 **Engenharia assistida por IA** — orquestração de agentes especializados (Claude Code) em pipelines de desenvolvimento: PRD → TDD → implementação → revisão, com skills e plugins customizados
+- 🤖 **Engenharia assistida por IA** — orquestração de agentes especializados (Claude Code) em pipelines de desenvolvimento: PRD → TDD → implementação → revisão
 - 📱 **Mobile** — aplicativo próprio publicado na Play Store desde 2018
 
 ---
@@ -32,14 +35,11 @@ Atuo na sustentação de 5 unidades do SENAI e no desenvolvimento de sistemas e 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 **Front-end & Mobile**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -80,14 +80,10 @@ Atuo na sustentação de 5 unidades do SENAI e no desenvolvimento de sistemas e 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=valdimirr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=valdimirr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=valdimirr&theme=tokyonight&hide_border=true)
 
 </div>
 
----
-
 <div align="center">
-
-💬 Aberto a conversar sobre infraestrutura, automação e desenvolvimento assistido por IA.
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:7952B3&height=100&section=footer"/>
 </div>
