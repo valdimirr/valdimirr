@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7952B3,100:D97757&height=180&section=header&text=Valdimir&fontSize=50&fontColor=fff&fontAlignY=35&desc=Infraestrutura%20%26%20Desenvolvimento%20Full%20Stack&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render-theta.vercel.app/api?type=waving&color=0:7952B3,100:D97757&height=180&section=header&text=Valdimir&fontSize=50&fontColor=fff&fontAlignY=35&desc=Infraestrutura%20%26%20Desenvolvimento%20Full%20Stack&descAlignY=55&descSize=18"/>
 </div>
 
 <div align="center">
@@ -83,10 +83,10 @@ Profissional de TI com mais de 6 anos de experiência em infraestrutura, suporte
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-REAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU-LOGIN-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:7952B3&height=100&section=footer"/>
+  <img src="https://capsule-render-theta.vercel.app/api?type=waving&color=0:D97757,100:7952B3&height=100&section=footer"/>
 </div>
