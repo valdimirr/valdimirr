@@ -36,7 +36,7 @@ Subagentes especializados (`product-manager`, `tech-architect`, `reviewer`) para
 <br>
 <img src="https://img.shields.io/badge/Gemini_3-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-IDE agent-first: planejamento, implementação e verificação automática (screenshots, testes) rodando em paralelo sobre o Gemini 3.
+IDE agent-first: planejamento, implementação e verificação automática (screenshots, testes) rodando em paralelo sobre o Gemini 4.
 
 </td>
 <td width="33%" valign="top">
@@ -84,15 +84,13 @@ Fluxo típico: **protótipo de UI/UX → PRD → TDD → implementação por age
 
 | Projeto | O quê | Como |
 |---|---|---|
-| **Meu Garagem App** | App de gestão de veículos | Protótipo no Claude Design → PRD/TDD por subagentes → implementação em React Native |
-| **Presença** | Monitoramento por vídeo com reconhecimento facial | Python + visão computacional |
+| **Rodari** | App de gestão de veículos | Protótipo no Claude Design → PRD/TDD por subagentes → implementação em React Native |
+| **Software sob medida** | Monitoramento por vídeo com reconhecimento facial | Python + visão computacional |
 | **Automações internas** | Provisionamento, inventário e relatórios do suporte N2 | PowerShell, Python, n8n, Power BI |
 
 ---
 
 <div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU-LOGIN-GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
 
