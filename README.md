@@ -40,7 +40,7 @@ Site em produção ([cmamotores.com](https://cmamotores.com)) e **ERP para ofici
 </td>
 <td width="50%" valign="top">
 
-#### 💬 ZapFlow SaaS
+#### 💬 Agentchê
 Atendimento via **WhatsApp com múltiplos agentes de IA**, base de conhecimento, transcrição de áudio e respostas em tempo real.
 
 <sub>Node.js · Evolution API · OpenAI · Anthropic · Ollama · Whisper · S3</sub>
